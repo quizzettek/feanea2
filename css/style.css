@@ -2,10 +2,9 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #0c0c0c;
-  background-color: #ffffff;
+  background-color: #6c757d;
   overflow-x: hidden;
 }
-
 .layout_padding {
   padding: 90px 0;
 }
@@ -345,6 +344,7 @@ a:focus {
   font-size: 3.5rem;
   font-weight: bold;
   margin-bottom: 15px;
+  font-style: times;
 }
 
 .slider_section .detail-box p {
